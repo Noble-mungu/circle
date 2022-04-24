@@ -93,6 +93,8 @@ include 'config.php';
       <div class="small-12">
         <center><p><input style="clear:both;" type="submit" class="button" value="Update"></p></center>
         </form>
+        <a href="admin-add-product.php" class="button">Add Product</a>
+        
         <footer style="margin-top:10px;">
            <p style="text-align:center; font-size:0.8em;">&copy; The circle Shop. All Rights Reserved.</p>
         </footer>
